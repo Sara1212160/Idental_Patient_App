@@ -1,5 +1,5 @@
 # Patient App Readme
-## for Dentist App Repo : https://github.com/saraabdelsalam/IDENTAL_Dentist-App
+## for Dentist App Repo : https://github.com/Sara1212160/Idental_Patient_App
 # Dental Diseases Detector
 A Flutter app that detects a dental diseases given either an panoramic x-ray or normal images.
 # DEMO
